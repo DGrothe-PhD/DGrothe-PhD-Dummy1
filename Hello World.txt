@@ -1,3 +1,0 @@
-This is Hello World.txt.
-I want to write text here.
-No code.
